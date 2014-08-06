@@ -1,0 +1,21 @@
+{
+  "name": "ember-google-analytics",
+  "main": "ember-google-analytics.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/PAM-AS/ember-google-analytics",
+  "authors": [
+    "Ryan T <ryanto@gmail.com>"
+  ],
+  "keywords": [
+    "ember"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
